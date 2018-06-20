@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Marco's gravatar image](https://www.gravatar.com/avatar/dc95af559b3603440d86cea1d2b9309b?s=512)
